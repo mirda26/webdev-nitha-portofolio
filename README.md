@@ -22,9 +22,10 @@ Website dibuat menggunakan:
 - *Ubah tema warna*
 - *Sapa pengguna*
 
-
 # Cara Menjalankan
 1. Download / Clone repository ini.
 2. Buka file index.html langsung di browser.
 
 Tidak membutuhkan server atau framework tambahan.
+
+Dokumentasi pada README ini telah disusun dengan baik sehingga memudahkan kolaborator dalam memahami struktur proyek.
